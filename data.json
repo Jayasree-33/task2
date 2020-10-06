@@ -1,0 +1,67 @@
+{
+	"details": {
+		"name": "Jaya",
+		"image": "images/ram.jpg",
+		"email": "jaya@gmail.com",
+		"number": "+91-9865985986",
+		"address": "Visakhapatnam",
+		"rollno": "311136410033"
+	},
+
+	"careerobjective": {
+		"information": "To become Full stack developer"
+	},
+
+	"educationalqualifications": [{
+			"institute": "Dr.L.Bullayya College",
+			"degree": "B.Tech",
+			"passoutyear": "2018",
+			"percentage": "88%"
+		},
+		{
+			"institute": "Sri Chaitanya College",
+			"degree": "Intermediate",
+			"passoutyear": "2014",
+			"percentage": "95%"
+		},
+		{
+			"institute": "Sri Satya Sai High School",
+			"degree": "SSC",
+			"passoutyear": "2012",
+			"percentage": "90%"
+		}
+
+	],
+
+	"technicalskills": [{
+			"title": "programming languages",
+			"info": ["C, C++, PHP"]
+
+		},
+		{
+			"title": "Database",
+			"info": ["SQL, MySql"]
+		},
+		{
+			"title": "Operating Systems",
+			"info": ["Windows", "Linux", "Unix"]
+
+		}
+	],
+
+	"carddetails1": {
+		"fullname": "Jayasree Potnuru",
+		"image": "images/appliances.png",
+		"rollno":"311136410033",
+		"btn":"Static Page"
+		
+	},
+
+	"carddetails2": {
+		"fullname": "Potnuru Jayasree ",
+		"image": "images/mobiles.jpg",
+		"rollno":"Roll No. 311136410033",
+		"btn":"Dynamic Page"
+		
+	}
+}
